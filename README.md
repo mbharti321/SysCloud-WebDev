@@ -6,7 +6,9 @@
 
 <!-- UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf -->
 <!-- xfun::embed_file("UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf") -->
-<embed src="UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf" type="application/pdf">
+<!-- <embed src="UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf" type="application/pdf"> -->
+<object data="UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf" type="application/pdf" width="100%"> 
+</object>
 
 ### Task repository Links
 - [Manish Bharti's Github Link](https://github.com/mbharti321)
