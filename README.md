@@ -9,7 +9,13 @@
 <!-- <embed src="UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf" type="application/pdf"> -->
 <!-- <object data="UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf" type="application/pdf" width="100%"> 
 </object> -->
-[embed]UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf[/embed]
+<!-- [embed]https://github.com/mbharti321/SysCloud-WebDev/blob/main/UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf[/embed] -->
+
+<object data="https://github.com/mbharti321/SysCloud-WebDev/blob/main/UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/mbharti321/SysCloud-WebDev/blob/main/UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/mbharti321/SysCloud-WebDev/blob/main/UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ### Task repository Links
 - [Manish Bharti's Github Link](https://github.com/mbharti321)
