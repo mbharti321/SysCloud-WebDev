@@ -1,25 +1,16 @@
-# SysCloud WebDev Course work
+# SysCloud [WebDev Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by [Angela Yu](https://twitter.com/yu_angela)
 
-## Certificate link
+
+
+## Certificate
+![Manish Bharti](ManishBharti.png)
+
 - [The Complete 2022 Web Development Bootcamp
 ](http://ude.my/UC-8928f703-fef3-419d-aa3b-416699a0241a)
 
-<!-- UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf -->
-<!-- xfun::embed_file("UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf") -->
-<!-- <embed src="UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf" type="application/pdf"> -->
-<!-- <object data="UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf" type="application/pdf" width="100%"> 
-</object> -->
-<!-- [embed]https://github.com/mbharti321/SysCloud-WebDev/blob/main/UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf[/embed] -->
 
-<object data="https://github.com/mbharti321/SysCloud-WebDev/blob/main/UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/mbharti321/SysCloud-WebDev/blob/main/UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/mbharti321/SysCloud-WebDev/blob/main/UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
 
-### Task repository Links
-- [Manish Bharti's Github Link](https://github.com/mbharti321)
-
+## Task repository Links
 
 1. [HTML-PersonalSite](https://github.com/mbharti321/HTML-PersonalSite)
 2. [CSS_MySite](https://github.com/mbharti321/CSS_MySite)
