@@ -37,5 +37,20 @@
     
 - **Authentication & security**
 13. [Secrets-with-AuthenticationAndSecurity](https://github.com/mbharti321/Secrets-with-AuthenticationAndSecurity)
-14. [keeper-ReactJs](https://github.com/mbharti321/keeper-ReactJs)
+    
+- **React.js**
+15. [keeper-ReactJs](https://github.com/mbharti321/keeper-ReactJs)
+  
 
+- **CodeSandbox** repo
+1. [My Contacts-props practice](https://codesandbox.io/s/react-props-practice-forked-yxcw1)
+2. [EmojiPedia-Mapping Components Practice (forked)](https://codesandbox.io/s/mapping-components-practice-forked-j27zj)
+3. [EmojiPedia-ES6 Arrow Functions (forked)](https://codesandbox.io/s/es6-arrow-functions-forked-hbp5k)
+4. [Keeper App Part 2 Starting (forked)](https://codesandbox.io/s/keeper-app-part-2-starting-forked-iebfi)
+5. [Conditional Rendering Practice (forked)](https://codesandbox.io/s/conditional-rendering-practice-forked-3codu)
+6. [useState Hook Practice (forked)](https://codesandbox.io/s/usestate-hook-practice-forked-9s2yc)
+7. [Changing Complex State Practice (forked)](https://codesandbox.io/s/changing-complex-state-practice-forked-2cxzl)
+8. [TodoList-ES6 Spread Operator Practice (forked)](https://codesandbox.io/s/es6-spread-operator-practice-forked-h721s)
+9. [TodoList-Managing a Component Tree Practice (forked)](https://codesandbox.io/s/managing-a-component-tree-practice-forked-kmq8l)
+10. [Keeper Part 3 Starting (forked)](https://codesandbox.io/s/keeper-part-3-starting-forked-bkc5q)
+11. [Keeper-Using Pre-Built React Components (forked)](https://codesandbox.io/s/using-pre-built-react-components-forked-ndgxs)
