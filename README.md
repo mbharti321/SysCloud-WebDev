@@ -22,7 +22,7 @@
 6. [SimonGame](https://github.com/mbharti321/SimonGame)
 
 
-- **Node.js and API **
+- **Node.js and API**
 7. [weatherCheck](https://github.com/mbharti321/weatherCheck)
 8. [newsletter-signup](https://github.com/mbharti321/newsletter-signup)
 
