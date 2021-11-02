@@ -4,6 +4,10 @@
 - [The Complete 2022 Web Development Bootcamp
 ](http://ude.my/UC-8928f703-fef3-419d-aa3b-416699a0241a)
 
+<!-- UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf -->
+<!-- xfun::embed_file("UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf") -->
+<embed src="UC-8928f703-fef3-419d-aa3b-416699a0241a.pdf" type="application/pdf">
+
 ### Task repository Links
 - [Manish Bharti's Github Link](https://github.com/mbharti321)
 
